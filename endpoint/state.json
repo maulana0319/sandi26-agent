@@ -1,0 +1,44 @@
+{
+  "wallet": "0x6C6eE6b986680CdfBea0f906Ecd2ced2a0649C37",
+  "block": 133608573,
+  "bnb": "0.000986153675405656",
+  "balances": {
+    "GOAT": "4312312.312312312312312312 GOAT",
+    "POWER": "1000000.0 POWER",
+    "MUSE": "0.0 MUSE",
+    "VEIN": "20000.0 VEIN",
+    "VIRTUAL": "200000.0 VIRTUAL",
+    "PESI": "10000000.0 PESI",
+    "WNO": "0.0 WNO",
+    "LOOT": "0.0 LOOT",
+    "BNBbaby": "10000000.0 BNBbaby",
+    "KUMO": "50000.0 KUMO",
+    "KIJIN": "1",
+    "Meow Cards": "0",
+    "FORGE": "0",
+    "PODS": "1",
+    "ALCHEMYBIT": "1",
+    "Agent Cards": "1",
+    "ONLYAI": "1",
+    "CALLSIGN": "1",
+    "SYMBOL NFT": "1",
+    "GOAT NFT": "1"
+  },
+  "owners": {
+    "ALCHEMYBIT #502": "YES (0x6C6eE6b986680CdfBea0f906Ecd2ced2a0649C37)",
+    "KIJIN #2414": "YES (0x6C6eE6b986680CdfBea0f906Ecd2ced2a0649C37)",
+    "PODS #382": "YES (0x6C6eE6b986680CdfBea0f906Ecd2ced2a0649C37)",
+    "CALLSIGN #633": "YES (0x6C6eE6b986680CdfBea0f906Ecd2ced2a0649C37)"
+  },
+  "txs": {
+    "ALCHEMYBIT #502 mint": "status=SUCCESS block=133580532 gasUsed=341204 https://bscscan.com/tx/0x398f4866747697fc1d8307c9cc62f7dfa90a42df6438b6bc47df66fe990b11a6",
+    "PODS #382 mint": "status=SUCCESS block=133545772 gasUsed=101052 https://bscscan.com/tx/0xdb24bd0a2cb312dc5f568c408c0faeb77eb7ad0405a1187aee9287ef608a3977",
+    "GOAT win bonus claim": "status=SUCCESS block=133494018 gasUsed=68778 https://bscscan.com/tx/0x4e6b441256fb8c893d13ce204ccea627b0ae31c1554dc04369ce011e6a0d931c",
+    "CALLSIGN #633 mint": "status=SUCCESS block=133202168 gasUsed=302155 https://bscscan.com/tx/0x6dffc25448d14391a87cabbd04f94049d3bcc5c297281b88206d6c0e0ad37a23",
+    "CrossEyed #137 mint": "status=SUCCESS block=133370745 gasUsed=522967 https://bscscan.com/tx/0xaf1d78ac43bee225d051302a3a9f9d0500a990b2d8ab50921115d60327e93162",
+    "NEBULA claim (first fastmint success)": "status=SUCCESS block=132896964 gasUsed=129731 https://bscscan.com/tx/0xbb48f4b1c6eadab2c64eaedbe8634a41faf86ec0f96f6bba3db765e79c561f1d",
+    "KIJIN #2414 mint": "status=SUCCESS block=133268616 gasUsed=153688 https://bscscan.com/tx/0x564e0dbb658d6dd44c85e15af8f6c083bd7922f95704af2583d25917bb94ce28",
+    "Meow #812 mint": "status=SUCCESS block=133172345 gasUsed=313034 https://bscscan.com/tx/0xab203b5b0ec0baaeb261cb7eae3979b0d9039906a5fe6ec4a7d38887d62326ff",
+    "Meow #812 listing": "status=SUCCESS block=133184749 gasUsed=200815 https://bscscan.com/tx/0x613c1be4f42dc7ee8c6318de6d4a25f8d6ed208fa380b63687f765fdf70afdb8"
+  }
+}
