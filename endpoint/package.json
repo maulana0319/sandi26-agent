@@ -1,0 +1,1 @@
+{"description":"sandi26.ai — read-only public status endpoint (zero dependencies, Node built-ins only). Serves GET /, /status, /claims, /health from endpoint/state.json.","engines":{"node":">=18"},"license":"MIT","main":"server.js","name":"sandi26-agent-endpoint","scripts":{"start":"node server.js"},"version":"1.0.0"}
